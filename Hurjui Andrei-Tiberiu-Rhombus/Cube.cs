@@ -12,7 +12,6 @@ namespace Rhombus
         private readonly List<List<float>> coordonate = new List<List<float>>();
         Admin admin = new Admin();
      
-
         public Cube()
         {
             coordonate = admin.GetCoordonate();
