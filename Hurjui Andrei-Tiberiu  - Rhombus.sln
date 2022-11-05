@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hurjui Andrei-Tiberiu-Rhombus", "Hurjui Andrei-Tiberiu-Rhombus\Hurjui Andrei-Tiberiu-Rhombus.csproj", "{ECFE9A42-5C96-428A-ACD9-4341CF1C9F01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdministratorFisier", "AdministratorFisier\AdministratorFisier.csproj", "{85CF4498-386A-4B3E-86E2-5E208DC38047}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ECFE9A42-5C96-428A-ACD9-4341CF1C9F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECFE9A42-5C96-428A-ACD9-4341CF1C9F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECFE9A42-5C96-428A-ACD9-4341CF1C9F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85CF4498-386A-4B3E-86E2-5E208DC38047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85CF4498-386A-4B3E-86E2-5E208DC38047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85CF4498-386A-4B3E-86E2-5E208DC38047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85CF4498-386A-4B3E-86E2-5E208DC38047}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
